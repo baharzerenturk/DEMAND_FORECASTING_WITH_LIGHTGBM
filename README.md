@@ -10,6 +10,6 @@ Information of 10 different stores and 50 different products in 5-year data of a
 
 ## Variables:
 date: Dates of Sales Data (There are no holiday effects or store closures.) <br/>
-store: ID's of Stores (Unique number for each store.) <br/>
-item: ID's of Products (Unique number for each product.) <br/>
+store: IDs of Stores (Unique number for each store.) <br/>
+item: IDs of Products (Unique number for each product.) <br/>
 sales: Number of Products Sold (The number of products sold from a particular store on a given date.) <br/>
